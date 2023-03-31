@@ -11,7 +11,7 @@ import Project from "./components/Project";
 import Resume from "./components/Resume";
 
 function App() {
-  const [pages] = useState([
+  const [pages] = useState(false)[;
     {
       name: "about me"
     },
