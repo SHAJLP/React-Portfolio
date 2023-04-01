@@ -13,7 +13,7 @@ import Resume from "./components/Resume";
 function App() {
   const [pages] = useState(false)[;
     {
-      name: "about me"
+      name: "Sophia Altaf"
     },
     { name: "portfolio" },
     { name: "contact" },
