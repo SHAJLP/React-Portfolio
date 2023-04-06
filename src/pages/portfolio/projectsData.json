@@ -1,0 +1,63 @@
+[
+  {
+    "title": " Note Taker",
+    "image": "./projectImages/notetaker.png",
+    "description": "A simple Express.JS based note app that ables you to create and save notes. The app is a digital node made using Express.JS on the backend which serves as the main theme. All the notes are saved as a JSON format and establishes express pathways",  
+    "technologies": "Express.js ",
+    "github": "https://github.com/shajlp/express-note-taker",
+    "deployed": " https://shajlp.github.io/Express-Note-Taker/",
+    "bgcolor": "#f37737",
+    "id": "1"
+  },
+  {
+    "title": "Weather App",
+    "image": "./projectImages/weatherapp.png",
+    "technologies": "jQuery | HTML | CSS",
+    "description": " This dashboard uses the OpenWeatherMap API to retrieve detailed weather data, including the city name, date, weather icon, temperature, humidity, and wind speed. The dashboard has a 5-day forecast feature and a search history feature that saves past searches for easy access.  The searched location uses the geolocation API to automatically determine the user's current location and display the weather",
+    "github": "https://github.com/SHAJLP/Weather-app",
+    "deployed": "https://shajlp.github.io/Weather-app//",
+    "bgcolor": "#29cbe0",
+    "id": "2"
+  },
+  { "title": " Password Generator",
+    "image": "./projectImages/passwordgenerator.png",
+     "technologies": "JavaScript| API",
+     "description": "A simple secure passwrod generator.  ",
+     "github": "https://github.com/SHAJLP/password-generator",
+     "deployed": "https://shajlp.github.io/password-generator/",
+     "bgcolor": "#6c4bf4",
+     "id": "3"
+   },
+  {
+    "title": "Text Editor",
+    "image": "./projectImages/texteditor.png",
+    "technologies": "JS | HTML | CSS",
+    "description": "This application uses an existing text editor and adds functionality so it works as a PWA and able to function offline. The application is deployed through Heroku.",
+    "github": "https://github.com/SHAJLP/Progressive-Web-Applications",
+    "deployed": "https://pwa-1.herokuapp.com/",
+    "bgcolor": "#f85781",
+    "id": "4"
+  },
+
+  {
+    "title": "Studdy Buddy",
+    "image": "./projectImages/StuddyBuddy.png",
+    "description": "Connecting students to one another, to enable study sessions, sharing best practices, supporting one another, helping each other through problems and general chat about their subject.",
+    "technologies": "Node.js |Sequelizer | MYSQL | Discord | Dotenv",
+    "github": "https://github.com/SHAJLP/StuddyBuddy-Project",
+    "deployed": "https://dashboard.heroku.com/apps/studdy-buddy1",
+    "bgcolor": "#ffcc33",
+    "id": "1"
+  },
+
+  {
+    "title": "Work day Scheduler ",
+    "image": "./projectImages/scheduler.png",
+    "technologies": "JavaScript| CSS",
+    "description": "A simple Daily Planner App. Helping you keep track hour by hour of your upcoming day!",
+    "github": "https://github.com/SHAJLP/Work-day-planner",
+    "deployed": "https://shajlp.github.io/Work-day-planner/",
+    "bgcolor": "#3e67ff",
+    "id": "6"
+  }
+]
