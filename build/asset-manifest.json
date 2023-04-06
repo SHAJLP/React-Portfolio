@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/React-Portfolio/static/css/main.1d3f2424.css",
+    "main.js": "/React-Portfolio/static/js/main.cbe49d4f.js",
+    "static/media/loch.png": "/React-Portfolio/static/media/loch.92b0dde699aa3c7e85aa.png",
+    "static/media/me2.png": "/React-Portfolio/static/media/me2.0d4a88bfaa4578cca2be.png",
+    "static/media/Sophia-Altaf-resume.pdf": "/React-Portfolio/static/media/Sophia-Altaf-resume.31a3be360ed6de7d4e14.pdf",
+    "static/media/desk.webp": "/React-Portfolio/static/media/desk.c3cd981d3db3d1aa624d.webp",
+    "index.html": "/React-Portfolio/index.html",
+    "main.1d3f2424.css.map": "/React-Portfolio/static/css/main.1d3f2424.css.map",
+    "main.cbe49d4f.js.map": "/React-Portfolio/static/js/main.cbe49d4f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1d3f2424.css",
+    "static/js/main.cbe49d4f.js"
+  ]
+}
