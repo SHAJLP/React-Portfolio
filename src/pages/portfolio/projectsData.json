@@ -19,12 +19,12 @@
     "bgcolor": "#29cbe0",
     "id": "2"
   },
-  { "title": " Password Generator",
-    "image": "./projectImages/passwordgenerator.png",
+  { "title": " Recipe-for-Success",
+    "image": "./projectImages/recipe-for-Success.png",
      "technologies": "JavaScript| API",
-     "description": "A simple secure passwrod generator.  ",
-     "github": "https://github.com/SHAJLP/password-generator",
-     "deployed": "https://shajlp.github.io/password-generator/",
+     "description": "A group project which uses MERN and Stripe to enable users to appkication to make purchases.  ",
+     "github": "https://github.com/SHAJLP/Recipe-For-Success",
+     "deployed": "https://shajlp.github.io/Recipe-For-Success/",
      "bgcolor": "#6c4bf4",
      "id": "3"
    },
