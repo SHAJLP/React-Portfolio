@@ -21,7 +21,7 @@
   },
   { "title": " Recipe-for-Success",
     "image": "./projectImages/recipe-for-Success.png",
-     "technologies": "JavaScript| API",
+     "technologies": "JavaScript| API|MERN|React",
      "description": "A group project which uses MERN and Stripe to enable users to appkication to make purchases.  ",
      "github": "https://github.com/SHAJLP/Recipe-For-Success",
      "deployed": "https://shajlp.github.io/Recipe-For-Success/",
